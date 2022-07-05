@@ -1,7 +1,5 @@
 # mysql-framework
 
-
-
 ## QuickStart
 
 ```bash
@@ -14,9 +12,9 @@ publish your framework to npm, then change app's framework config:
 ```js
 // {app_root}/index.js
 {
-  "name": "egg-showcase",
+  "name": "egg-mysql-framework",
   "egg": {
-    "framework": "yadan"
+    "framework": "egg-mysql-framework"
   }
 }
 ```
@@ -24,4 +22,3 @@ publish your framework to npm, then change app's framework config:
 ## Questions & Suggestions
 
 Please open an issue [here](https://github.com/eggjs/egg/issues).
-

@@ -1,5 +1,5 @@
 {
-  "name": "mysql-framework",
+  "name": "egg-mysql-framework",
   "version": "1.0.0",
   "description": "",
   "dependencies": {

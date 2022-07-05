@@ -1,7 +1,8 @@
 {
   "name": "egg-mysql-framework",
   "version": "1.0.0",
-  "description": "",
+  "description": "根据schema自动生成resetful风格的api",
+  "main": "dist/index.min.js",
   "dependencies": {
     "egg": "^2",
     "egg-sequelize": "^6.0.0",
@@ -34,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/frontchen/egg-mysql-framework.git"
   },
   "keywords": [
     "egg",
@@ -47,7 +48,8 @@
     "lib",
     "app.js",
     "agent.js",
-    "index.js"
+    "index.js",
+    "dist"
   ],
   "eslintIgnore": [
     "coverage",

@@ -1,6 +1,6 @@
 {
   "name": "egg-mysql-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "根据schema自动生成resetful风格的api",
   "main": "dist/index.min.js",
   "dependencies": {
